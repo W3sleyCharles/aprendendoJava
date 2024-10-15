@@ -43,11 +43,7 @@ public class desafio2 {
             System.out.println (nome +" tem " + vitorias + " vitórias e está no elo Imortal");
         }
         
-        
-        
-        
     }
-
 
 }
 
