@@ -1,4 +1,4 @@
-package testes;
+package desafios;
 public class personagem {
     private String nome;
     private int idade;

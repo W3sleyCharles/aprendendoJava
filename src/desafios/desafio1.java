@@ -1,4 +1,4 @@
-package testes;
+package desafios;
 import java.util.Scanner;
 
 public class desafio1 { 
